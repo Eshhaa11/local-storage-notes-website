@@ -14,8 +14,10 @@ function Notes() {
 
     const addNote = () => {
         if (input.trim()) {
-            setNotes
+            setNotes([input, ...notes]);
+            setInput("");
+
         }
-    }
+    };
 
 }
