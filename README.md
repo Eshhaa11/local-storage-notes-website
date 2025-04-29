@@ -1,4 +1,4 @@
-![App Screenshot](src/assets/imagee.png)
+![App Screenshot](src/assets/Local.jpg)
 
 ## 🚀 Live Demo
 To see it in action, clone the repository and follow the setup instructions below.
