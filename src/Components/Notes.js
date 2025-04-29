@@ -26,7 +26,9 @@ function Notes() {
     };
 
     return (
-        
+        <div className="notes-cont">
+            
+        </div>
     )
 
 }
