@@ -25,4 +25,5 @@ body {
     padding: 16px 20px;
     flex: 1;
     background-color:  #2a2b31;
+    border-radius: 8px;
 }
