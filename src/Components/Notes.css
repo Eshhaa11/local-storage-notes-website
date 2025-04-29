@@ -5,7 +5,7 @@ body {
   padding: 50px 30px;
   background-color: #1e1f24;
   color: #f0f0f0;
-  font-family: "Intern";
+  font-family: "sans-serif";
   min-height: 100vh;
   box-sizing: border-box;
 }
@@ -19,6 +19,8 @@ body {
   display: flex;
   margin-bottom: 25px;
   gap: 12px;
+  font-size: 18px;
+  font-family: sans-serif;
 }
 
 .note-input input {
