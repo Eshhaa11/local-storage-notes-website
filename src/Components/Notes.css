@@ -41,5 +41,6 @@ body {
     padding: 14px 20px;
     background-color: #4f8ef7;
     border: none;
+    font-weight: bold;
     border-radius: 8px;
 }
