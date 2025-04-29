@@ -34,7 +34,7 @@ function Notes() {
                 placeholder="Write your notes here..."
                 />
 
-                <button
+                <button onClick={addNote}
             </div>
         </div>
     )
