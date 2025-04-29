@@ -40,6 +40,7 @@ function Notes() {
             {notes.map((note, index) => (
                  <div className="note" key={index}>
                       <p>{note}</p>
+                      <button onClick={() => deleteNote(index)}>🗑️</button>         
         </div>
     )
 
