@@ -25,6 +25,8 @@ function Notes() {
         setNotes(newNotes);
     };
 
-    return 
+    return (
+        
+    )
 
 }
