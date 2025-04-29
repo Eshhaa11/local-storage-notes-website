@@ -21,7 +21,7 @@ function Notes() {
     };
 
     const deleteNote = (index) => {
-        const newNotes = notes.filter((_, i) => i)
+        const newNotes = notes.filter((_, i) => i !== index);
 
     }
 
