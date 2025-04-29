@@ -34,4 +34,5 @@ body {
 
 .note-input input:focus {
     outline: none;
+    box-shadow: 0 0 0 2px #4f8ef7;
 }
