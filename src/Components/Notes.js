@@ -36,6 +36,7 @@ function Notes() {
 
                 <button onClick={addNote}>Add Note</button>
             </div> 
+            <div className="note-list">
         </div>
     )
 
