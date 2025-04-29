@@ -30,6 +30,7 @@ function Notes() {
             <div className="notes-input">
                 < input 
                 value={input}
+                onChange={(e) => setInput(e.target.value)}
                 />
             </div>
         </div>
