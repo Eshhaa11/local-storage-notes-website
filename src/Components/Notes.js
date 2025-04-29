@@ -29,7 +29,7 @@ function Notes() {
         <div className="notes-cont">
             <div className="notes-input">
                 < input 
-                
+                value={input}
                 />
             </div>
         </div>
