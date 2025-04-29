@@ -20,4 +20,6 @@ function Notes() {
         }
     };
 
+    const deleteNote
+
 }
