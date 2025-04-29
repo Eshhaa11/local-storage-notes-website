@@ -1,5 +1,5 @@
 import React from "react";
-import Notes from "./Components/notes";
+import Notes from "./Components/Notes";
 
 function App() {
   return (
