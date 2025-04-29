@@ -20,6 +20,8 @@ function Notes() {
         }
     };
 
-    const deleteNote
+    const deleteNote = (index) => {
+        
+    }
 
 }
