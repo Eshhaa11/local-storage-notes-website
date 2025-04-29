@@ -12,6 +12,10 @@ function Notes() {
         localStorage.setItem('my-notes', JSON.stringify(notes));
       }, [notes]);
 
-    
+    const addNote = () => {
+        if (input.trim()) {
+            setNotes
+        }
+    }
 
 }
