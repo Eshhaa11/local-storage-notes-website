@@ -33,6 +33,8 @@ function Notes() {
                 onChange={(e) => setInput(e.target.value)}
                 placeholder="Write your notes here..."
                 />
+
+                <button
             </div>
         </div>
     )
