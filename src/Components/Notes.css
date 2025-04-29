@@ -18,4 +18,5 @@ body {
 .note-input {
     display: flex;
     margin-bottom: 25px;
+    gap: 12px;
 }
