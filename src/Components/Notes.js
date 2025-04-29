@@ -28,7 +28,9 @@ function Notes() {
     return (
         <div className="notes-cont">
             <div className="notes-input">
+                < input 
                 
+                />
             </div>
         </div>
     )
