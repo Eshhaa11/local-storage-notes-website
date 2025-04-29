@@ -39,6 +39,7 @@ function Notes() {
             <div className="note-list">
             {notes.map((note, index) => (
                  <div className="note" key={index}>
+                      <p>{note}</p>
         </div>
     )
 
