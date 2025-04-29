@@ -37,6 +37,7 @@ function Notes() {
                 <button onClick={addNote}>Add Note</button>
             </div> 
             <div className="note-list">
+            {notes.map((note, index) => (
         </div>
     )
 
