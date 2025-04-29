@@ -10,7 +10,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 
 2. **Navigate to the project directory:**
 
-   cd drag-drop-task-board
+   cd local-storage-notes-website
 
 3. **Install dependencies:**
 
