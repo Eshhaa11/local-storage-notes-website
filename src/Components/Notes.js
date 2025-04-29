@@ -1,4 +1,4 @@
-import { useState, useEffect, use } from "react";
+import { useState, useEffect } from "react";
 import "./Notes.css";
 
 function Notes() {
@@ -26,7 +26,7 @@ function Notes() {
 
   return (
     <div className="notes-cont">
-      <div className="notes-input">
+      <div className="note-input">
         <input
           value={input}
           onChange={(e) => setInput(e.target.value)}
